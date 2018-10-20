@@ -1,7 +1,7 @@
 exports.cmdHello = function() {
-    return 'Hello world!';
+    return 'Hello cmdHello!';
 };
 
 export function es6Hello() {
-    return 'Hello world!';
+    return 'Hello es6Hello!';
 };
